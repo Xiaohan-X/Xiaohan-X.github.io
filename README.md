@@ -34,11 +34,11 @@ Your participation will also contribute to a better understanding of how individ
 #### LOCATION
 <img align="right" width="600" height="410" src="https://user-images.githubusercontent.com/93938449/218548833-7ced24cd-a324-46f3-a32a-207d21085ba2.jpg"> VSimulators is in the University of Exeter Engineering Research Centre, a newly built facility at Exeter Science Park, which completed construction in February 2020. VSimulators is housed in half the building, which includes the VSimulators chamber, a control room, a workshop, a meeting room/break out room, office space, and toilet facilities/showers on each floor (with full disabled access).
 
-- Testing day1 Address: St.Lukes Campus, 79 Heavitree Rd, Exeter EX2 4TH.:compass: [google map](https://goo.gl/maps/JZfntBp1k5f8sinq6)
+- Testing day1 Address: St.Lukes Campus, 79 Heavitree Rd, Exeter EX2 4TH. :compass: [google map](https://goo.gl/maps/JZfntBp1k5f8sinq6)
 
-- Testing day2 Address: Kay Building, North Park Road, Exeter, EX4 4QF.:compass: [google map](https://goo.gl/maps/38Yrmr2C2u4fcjUT8) 
+- Testing day2 Address: Kay Building, North Park Road, Exeter, EX4 4QF. :compass: [google map](https://goo.gl/maps/38Yrmr2C2u4fcjUT8) 
 
-We would be deeply grateful if you could kindly bring this study to the attention of anyone who you believe may be eligible to participate. Your assistance in spreading the word would be greatly appreciated.:heartpulse:
+We would be deeply grateful if you could kindly bring this study to the attention of anyone who you believe may be eligible to participate. Your assistance in spreading the word would be greatly appreciated. :heartpulse:
 
 
 :email: For more information please contact Xiaohan Xu  xx274@exeter.ac.uk
