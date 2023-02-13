@@ -20,6 +20,7 @@ If you participate the study
 
 Your participation will also contribute to a better understanding of how individuals with and without chronic ankle instability control their balance, which can lead to improved treatment options for those with CAI in the future.
 
+
 ### MAIN FACILITY
 
 #### VSimulators
@@ -35,4 +36,8 @@ Your participation will also contribute to a better understanding of how individ
 
 - Testing day2 Address: Kay Building, North Park Road, Exeter, EX4 4QF.:compass: [google map](https://goo.gl/maps/38Yrmr2C2u4fcjUT8) 
 
+We would be deeply grateful if you could kindly bring this study to the attention of anyone who you believe may be eligible to participate. Your assistance in spreading the word would be greatly appreciated.:heartpulse:
+
+
+:email: For more information please contact Xiaohan Xu  xx274@exeter.ac.uk
 
