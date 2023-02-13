@@ -9,8 +9,18 @@ Single leg balance is an important aspect of daily physical activity, as well as
 The study is looking at how they stand and what factors may influence their balance when they are standing on one foot and when they are doing more challenging balance tasks.
 
 # ANKLE-STRAT | TEST
-#### BACKGROUND
+### Test procedure
 
+If you participate the study
+
+- You will receive a standard questionnaire to screen if you potentially have chronic ankle instability (at Initial meeting).
+- You will have a comprehensive physical examination on your ankle (at testing day1). 
+- You will receive a battery of balance test (at testing day2).
+![Study procedure](https://user-images.githubusercontent.com/93938449/218559906-875c100d-beb3-4c76-9f96-d124decfdaa7.png)
+
+### Main Facilities
+
+#### VSimulator
 [VSimulators](https://vsimulators.co.uk/) at University of Exeter is a newly commissioned, state-of-the-art multidisciplinary platform for human factors research, combining the ability to recreate motion experienced in the real world, with immersive virtual reality for up to nine occupants. This unique facility is part of a joint venture between Universities of Exeter, Bath and Leicester, delivering two VSimulators facilities, one at the University of Bath and the other at the University of Exeter. The project was funded by a £4.8 million grant from the EPSRC (Engineering & Physical Sciences Research Council), along with substantial contributions by both Universities.
 ![image-20230213184737616](https://user-images.githubusercontent.com/93938449/218547520-6046b379-e20f-41b2-bda1-336ce1df9658.png)
 
