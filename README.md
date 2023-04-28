@@ -10,6 +10,17 @@ This project is about people with chronic ankle instability (CAI), which is a co
 The study is looking at how they stand and what factors may influence their balance when they are standing on one foot and when they are doing more challenging balance tasks.
 
 # ANKLE-STRAT | TEST
+
+### Participant inclusion exclusion criteria
+| **Inclusion  Criteria (CAI)**                                | **Inclusion  Criteria (Control)**                | **Exclusion  Criteria**                                      |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
+| Aged  18 to 35 years                                         | Aged  18 to 35 years.                            | Acute injury such as sprain,  strain, or fracture in the past 3 months. |
+| A history of significant  lateral ankle sprain with inflammatory symptoms | Aged  matched with CAI group.                    | Initial ankle sprain occurred less than 12 months before testing. |
+| Two or more episodes of  ‘giving way’ and/or feelings of instability at the ankle, but no sprain in  the past 12 months | Physical activity level  matched with CAI group. | Had  relevant balance problems like recurrent falls, dizziness, vision problems,  vestibular dysfunction, or musculoskeletal injuries. |
+| Cumberland  Ankle Instability Tool (CAIT) score less than 24 | No history of lateral ankle sprains.             | Normal cognitive function.                                   |
+|                                                              |                                                  | Had experience in professional balance training (e.g., gymnastics, slacklining). |
+|                                                              |                                                  | History of cardiovascular conditions.                        |
+
 ### TEST PROCEDURE
 
 If you participate the study
