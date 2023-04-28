@@ -12,16 +12,16 @@ The study is looking at how they stand and what factors may influence their bala
 # ANKLE-STRAT | TEST
 
 ### Participant inclusion exclusion criteria
-** Inclusion Criteria (CAI)
+** Inclusion Criteria (CAI) **
 - Aged 18 to 35 years
 - A history of significant lateral ankle sprain with inflammaotry symptoms
 - Two or more episodes of 'giving way' and/or feelings of instability at the ankle, but no sprain in the past 12 months.
 
-** Inclusion Criteria (Control)
+** Inclusion Criteria (Control) **
 - Age, weight, height and physical activity level matched with CAI group
 - No history of lateral ankle sprains
 
-** Exclusion Criteria
+** Exclusion Criteria **
 - Acute injury such as sprain, strain or fracture in the past 3 months.
 - Initial ankle sprain occurred less than 12 months before testing.
 - Had relevant balance problems like recurrent falls, dizziness, vision problems, vestibular dysfunction, or musculoskeletal injuries.
