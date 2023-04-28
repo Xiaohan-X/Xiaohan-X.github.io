@@ -30,7 +30,7 @@ If you participate the study
 - You will receive a battery of balance test (at testing day2).
 ![Study procedure](https://user-images.githubusercontent.com/93938449/218559906-875c100d-beb3-4c76-9f96-d124decfdaa7.png)
 
-**Please read [Participant Information Sheet](https://drive.google.com/drive/folders/1U7wdpYnkC3hWm1wLmwVFrx8ewYR3YBMb?usp=sharing) for more information.**
+#### **Please read [Participant Information Sheet](https://drive.google.com/drive/folders/1U7wdpYnkC3hWm1wLmwVFrx8ewYR3YBMb?usp=sharing) for more information.**
 
 Your participation will also contribute to a better understanding of how individuals with and without chronic ankle instability control their balance, which can lead to improved treatment options for those with CAI in the future.
 
@@ -39,7 +39,7 @@ Your participation will also contribute to a better understanding of how individ
 
 #### VSimulators
 
-[VSimulators](https://vsimulators.co.uk/) at University of Exeter is a newly commissioned, state-of-the-art multidisciplinary platform for human factors research, combining the ability to recreate motion experienced in the real world, with immersive virtual reality for up to nine occupants. This unique facility is part of a joint venture between Universities of Exeter, Bath and Leicester, delivering two VSimulators facilities, one at the University of Bath and the other at the University of Exeter. The project was funded by a £4.8 million grant from the EPSRC (Engineering & Physical Sciences Research Council), along with substantial contributions by both Universities.
+[VSimulators](https://vsimulators.co.uk/) at University of Exeter is a newly commissioned, state-of-the-art multidisciplinary platform for human factors research, combining the ability to recreate motion experienced in the real world, with immersive virtual reality for up to nine occupants. This unique facility is part of a joint venture between Universities of Exeter, Bath and Leicester, delivering two VSimulators facilities, one at the University of Bath and the other at the University of Exeter.
 
 ![image-20230213184737616](https://user-images.githubusercontent.com/93938449/218547520-6046b379-e20f-41b2-bda1-336ce1df9658.png)
 
