@@ -30,6 +30,7 @@ If you participate the study
 - You will receive a battery of balance test (at testing day2).
 ![Study procedure](https://user-images.githubusercontent.com/93938449/218559906-875c100d-beb3-4c76-9f96-d124decfdaa7.png)
 
+**Please read [Participant Information Sheet](https://drive.google.com/drive/folders/1U7wdpYnkC3hWm1wLmwVFrx8ewYR3YBMb?usp=sharing) for more information.**
 
 Your participation will also contribute to a better understanding of how individuals with and without chronic ankle instability control their balance, which can lead to improved treatment options for those with CAI in the future.
 
