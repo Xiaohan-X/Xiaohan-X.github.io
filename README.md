@@ -55,7 +55,7 @@ Your participation will also contribute to a better understanding of how individ
 
 - Testing day1 Address: St.Lukes Campus, 79 Heavitree Rd, Exeter EX2 4TH. 🧭 [google map](https://goo.gl/maps/JZfntBp1k5f8sinq6)
 
-- Testing day2 Address: Kay Building, North Park Road, Exeter, EX4 4QF. 🧭 [google map](https://goo.gl/maps/38Yrmr2C2u4fcjUT8) 
+- Testing day2 Address: Science Park, University of Exeter Engineering Research Centre, Anning Dr, Clyst Honiton, Exeter EX5 2GD. 🧭 [google map](https://goo.gl/maps/38Yrmr2C2u4fcjUT8) 
 
 We would be deeply grateful if you could kindly bring this study to the attention of anyone who you believe may be eligible to participate. Your assistance in spreading the word would be greatly appreciated. 💗
 
